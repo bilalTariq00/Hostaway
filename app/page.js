@@ -8,14 +8,14 @@ export default function HomePage() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
           <div className="bg-white rounded-lg border p-6">
             <h3 className="text-sm font-medium text-gray-500 mb-2">
-              Today's check-outs
+              Today check-outs
             </h3>
             <div className="text-3xl font-bold">6</div>
             <p className="text-sm text-gray-500">Check-outs today</p>
           </div>
           <div className="bg-white rounded-lg border p-6">
             <h3 className="text-sm font-medium text-gray-500 mb-2">
-              Today's check-ins
+              Today check-ins
             </h3>
             <div className="text-3xl font-bold">3</div>
             <p className="text-sm text-gray-500">Check-ins today</p>
